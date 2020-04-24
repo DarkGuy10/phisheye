@@ -1,4 +1,4 @@
-## BLACKEYE v1.2
+## PHISHEYE 1.0
 ### Coded by: @linux_choice (https://github.com/thelinuxchoice/blackeye)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 ### Upgraded by: @suljot_gjoka (@whiteeagle0)
@@ -16,7 +16,7 @@ dlink router logins
 
 
 #### Description
-PHISHEYE is a fork of the famous BLACKEYE tool, and is concentrated on adding extra pages to the existing ones 
+PHISHEYE is a fork of the famous BLACKEYE tool, and is concentrated on adding extra pages to the existing ones
 
 ## Legal disclaimer:
 Usage of BlackEye for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
